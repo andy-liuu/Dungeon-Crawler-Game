@@ -8,7 +8,7 @@
 ### Repository Description
 - Source code found in src/
 - Entry point to game: RunGame.java <br>
-<strong> Disclamer: For future projects I need to learn how to package the code into 1 exe file (or use a different language) </strong>
+<strong> Disclamer: For future projects I need to learn how to package the code into 1 exe file </strong>
 - Sprite images and un-processed images found in files in classes/
 - Includes .jcw file aka this repository is from a JCreator workspace
 
