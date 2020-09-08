@@ -19,7 +19,7 @@
 - Instructions and controls are in-game
 
 ### Code Description
-I implemented some utility features (for ease of devellopment) from scratch such as:
+I implemented some utility features (for ease of development) from scratch such as:
 - Resource manager - Sprites only loaded from file once
 - Tileset + Tilemap for level creation
 
