@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>zeldaFSE</label>
+	</settings>
+	<users>
+		<user>
+			<path>zeldaFSE.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>zeldaFSE.jcp</path>
+		</project>
+	</projects>
+</workspace>
